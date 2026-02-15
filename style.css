@@ -1,0 +1,32 @@
+.control{
+    background-color: #94acec;
+    border-color: #2c54db;
+}
+.math{
+    width: 10vh;
+    height: 10vh;
+    font-size: 5vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+#roll{
+    height: 10vh;
+    width: 30vh;
+    font-size: 5vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    text-align: center;
+}
+#cats{
+    /*text-align: center;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 19vh;
+}
+.catWait{
+    background-image: url("icons/Black_W_for_promotion.png");
+    object-fit: contain; 
+    width: 18vh;
+    height: 18vh;
+}
